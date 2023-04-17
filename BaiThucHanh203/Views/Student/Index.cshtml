@@ -1,0 +1,19 @@
+@model IEnumerable<BaiThucHanh203.Models.Student>
+<p>
+    <a class= "btn btn-success" asp-action="Create">Create a New Student</a>
+</p>
+<table class="table table-all">
+    <tr>
+        <th>Student Code</th>
+        <th>Full Name</th>
+        <th>Address</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(m => item.StudentCode)</td>
+            <td>@Html.DisplayFor(m => item.FullName)</td>
+            <td>@Html.DisplayFor(m => item.Address)</td>
+        </tr>
+    }
+</table>

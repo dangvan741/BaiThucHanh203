@@ -1,0 +1,8 @@
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.csproj.AssemblyReference.cache
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.GeneratedMSBuildEditorConfig.editorconfig
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.AssemblyInfoInputs.cache
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.AssemblyInfo.cs
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.csproj.CoreCompileInputs.cache
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.MvcApplicationPartsAssemblyInfo.cache
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.RazorAssemblyInfo.cache
+D:\ptpmql2002\BaiThucHanh0703\obj\Debug\net7.0\BaiThucHanh0703.RazorAssemblyInfo.cs
